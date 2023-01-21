@@ -1,1 +1,1 @@
-# Geographical-information-system-for-risky-buildings-in-Istanbul
+# Geographical information system for risky buildings in Istanbul
